@@ -93,7 +93,7 @@ Pivot Tables and Pivot Charts are used to summarize the data and present meaning
 
 ## 👨‍💻 Author
 
-**Ayush Kaushik**
+**Ayush Kaushik**    
 
 GitHub: [Theayush0021](https://github.com/Theayush0021)
 
